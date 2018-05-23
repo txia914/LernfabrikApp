@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button openSetting;
     private Button newDevice_button;
-//use git
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
